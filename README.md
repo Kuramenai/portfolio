@@ -11,8 +11,18 @@
 Research on the understanding and application of LLMs to path recommendation, a core service of many navigation systems. We also tried to improve their performance through retrieval-augmented generation (RAG). Ollama was used to deploy the LLM Qwen-2.5-14b-instruct locally, chromaDB for the vector database, and multilingual-e5-large as the embedding model. The research article is available at the following address: https://arxiv.org/abs/2504.05846.
 
 ![newplot_(10)](https://github.com/Kuramenai/portfolio/blob/main/assets/img/newplot%20(10).png)
-![newplot_(11)](https://github.com/Kuramenai/portfolio/blob/main/assets/img/newplot%20(11).png)
-![newplot_(9)](https://github.com/Kuramenai/portfolio/blob/main/assets/img/newplot%20(9).png)
+
+### iSketch
+A web-based drawing program built using HTML, CSS, and JavaScript. Try it [here](https://kuramenai.github.io/MySketchpad/), and happy drawing 😁.
+
+### WeRock
+A web-based version of the infamous rock-paper-scissors game. It's available [here](https://kuramenai.github.io/rock-paper-scissors/). May luck be on your side.
+
+### Calculator
+Calculate anytime and anywhere, as long as you have access to the Internet, with this online [calculator](https://kuramenai.github.io/web-based-calculator/)
+
+
+
 
 
 
