@@ -19,7 +19,7 @@ A web-based drawing program built using HTML, CSS, and JavaScript. Try it [here]
 A web-based version of the infamous rock-paper-scissors game. It's available [here](https://kuramenai.github.io/rock-paper-scissors/). May luck be on your side.
 
 ### Calculator
-Calculate anytime and anywhere, as long as you have access to the Internet, with this online [calculator](https://kuramenai.github.io/web-based-calculator/)
+Calculate anytime and anywhere, as long as you have access to the Internet, with this online [calculator](https://kuramenai.github.io/web-based-calculator/).
 
 
 
