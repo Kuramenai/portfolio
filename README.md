@@ -20,31 +20,6 @@ multimedia system of the system.
 
 ![touchless](/assets/img/touchless.gif)
  
-### Game development
-
-#### Tetris Clone
-Tetris clone written in Python using Pygame.
-
-![tetris](/assets/img/tetris.gif)
-
-#### Space Invaders Clone
-Space Invaders clone written in Python using Pygame.
-
-### Web Development 
-#### iSketch
-A web-based drawing program built using HTML, CSS, and JavaScript. Try it [here](https://kuramenai.github.io/MySketchpad/), and happy drawing 😁.
-
-![iSketch](/assets/img/iSketch.gif)
-
-#### Calculator
-Calculate anytime and anywhere, as long as you have access to the Internet, with this online [calculator](https://kuramenai.github.io/web-based-calculator/).
-
-![Calculator](/assets/img/calculator.gif)
-
-#### WeRock
-A web-based version of the infamous rock-paper-scissors game. It's available [here](https://kuramenai.github.io/rock-paper-scissors/). May luck be on your side.
-
-![WeRock](/assets/img/weRock.gif)
 
 
 
