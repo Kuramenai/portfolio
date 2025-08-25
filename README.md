@@ -15,6 +15,8 @@ Research on the understanding and application of LLMs to path recommendation, a 
 ### iSketch
 A web-based drawing program built using HTML, CSS, and JavaScript. Try it [here](https://kuramenai.github.io/MySketchpad/), and happy drawing 😁.
 
+![iSketch](https://github.com/user-attachments/assets/a097d757-2f15-4448-8221-8098bbe4e6b6)
+
 ### WeRock
 A web-based version of the infamous rock-paper-scissors game. It's available [here](https://kuramenai.github.io/rock-paper-scissors/). May luck be on your side.
 
