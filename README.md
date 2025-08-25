@@ -13,6 +13,23 @@ Research on the understanding and application of LLMs to path recommendation, a 
 
 ![pathgpt](/assets/img/pathgpt_framework.jpg)
 
+#### Multimedia System with Gesture Recognition
+The system uses real-time images captured by a camera to recognize the user's gestures and perform operations such as playing music and videos. The system runs on a Raspberry Pi
+using the Python programming language. We use OpenCV for image preprocessing, TensorFlow as a machine learning platform, and PyQt5 to create the interactive interface and
+multimedia system of the system.
+
+![touchless](/assets/img/touchless.gif)
+ 
+### Game development
+
+#### Tetris Clone
+Tetris clone written in Python using Pygame.
+
+![tetris](/assets/img/tetris.gif)
+
+#### Space Invaders Clone
+Space Invaders clone written in Python using Pygame.
+
 ### Web Development 
 #### iSketch
 A web-based drawing program built using HTML, CSS, and JavaScript. Try it [here](https://kuramenai.github.io/MySketchpad/), and happy drawing 😁.
